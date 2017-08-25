@@ -1,5 +1,4 @@
 # node-shm
-==========
 
 Native Node.js module for reading/writing to shared memory compatible with PHP shmop
 
