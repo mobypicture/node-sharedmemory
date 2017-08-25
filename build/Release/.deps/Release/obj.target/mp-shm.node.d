@@ -1,0 +1,1 @@
+cmd_Release/obj.target/mp-shm.node := g++ -shared -pthread -rdynamic -m64  -Wl,-soname=mp-shm.node -o Release/obj.target/mp-shm.node -Wl,--start-group Release/obj.target/mp-shm/src/main.o -Wl,--end-group 

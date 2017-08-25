@@ -1,0 +1,23 @@
+{
+  "name": "node-sharedmemory",
+  "version": "1.0.0",
+  "description": "Implements reading from/to shared memory (using shmget)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mobypicture/node-sharedmemory.git"
+  },
+  "keywords": [
+    "shmget",
+    "shmat"
+  ],
+  "author": "Bram Pelgrom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mobypicture/node-sharedmemory/issues"
+  },
+  "homepage": "https://github.com/mobypicture/node-sharedmemory#readme"
+}
